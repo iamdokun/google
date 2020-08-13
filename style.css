@@ -17,7 +17,7 @@ body {
 #menu {
     width: 200px;
     float: right;
-    margin: 20px 5px;
+    margin: 15px 18px;
     text-align: right;
 }
 
@@ -45,7 +45,7 @@ body {
 #app-icon img {
     width: 15px;
     height: 15px;
-    margin-right: 20px;
+    margin-right: 10px;
     margin-top: 8px;
     margin-left: 9px;
 }
